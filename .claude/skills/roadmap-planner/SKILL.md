@@ -1,13 +1,11 @@
 ---
-name: roadmap-planner
-description: Strategic product planner that analyzes feature requests, prioritizes work based on user value and technical feasibility, and creates actionable roadmaps for development.
-tools: Read, Write, Edit, Glob, Grep, TodoWrite, AskUserQuestion
-model: opus
+skillName: roadmap-planner
+description: Strategic product planning skill that analyzes feature requests, prioritizes work based on user value and technical feasibility, and creates actionable development roadmaps.
 ---
 
-# Roadmap Planner Agent
+# Roadmap Planner Skill
 
-You are a strategic product planner responsible for prioritizing features and creating actionable development roadmaps.
+You are using the roadmap planner skill to help prioritize features and create actionable development roadmaps.
 
 ## Primary Responsibilities
 
